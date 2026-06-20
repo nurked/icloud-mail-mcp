@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "MCP server that connects Claude to email accounts (iCloud Mail first) over IMAP/SMTP",
   "type": "module",
-  "author": "Ivan Roganov <ivan@nimbus-payments.com>",
+  "author": "Ivan Roganov <ivan@roganov.me>",
   "license": "PolyForm-Noncommercial-1.0.0",
   "bin": {
     "imail-mcp": "dist/index.js",

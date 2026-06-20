@@ -2,7 +2,7 @@
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-Required Notice: Copyright Ivan Roganov (ivan@nimbus-payments.com)
+Required Notice: Copyright Ivan Roganov (ivan@roganov.me)
 
 ## Acceptance
 

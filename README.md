@@ -192,6 +192,6 @@ not OSI open source.
   intact**, so your work is always credited.
 - 💼 **Commercial use requires a separate license.** If you want to use imail-mcp
   to make money — in a product, a paid service, or inside a for-profit company —
-  contact me at **ivan@nimbus-payments.com** to arrange a commercial license.
+  contact me at **ivan@roganov.me** to arrange a commercial license.
 
 See [LICENSE.md](LICENSE.md) for the full terms.
