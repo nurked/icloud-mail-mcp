@@ -2,7 +2,7 @@
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-Required Notice: Copyright Ivan Roganov (ivan@roganov.me)
+Required Notice: Copyright Investment Fidelity (https://investmentfidelity.company)
 
 ## Acceptance
 
