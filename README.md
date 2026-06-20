@@ -183,4 +183,15 @@ The tools stay unchanged.
 
 ## License
 
-MIT
+**[PolyForm Noncommercial License 1.0.0](LICENSE.md)** — this is *source-available*,
+not OSI open source.
+
+- ✅ **Free** for any **noncommercial** purpose — personal use, study, research,
+  hobby projects, and use by nonprofits, schools, and government bodies.
+- ✅ You may read, modify, and redistribute it; the **copyright notice must stay
+  intact**, so your work is always credited.
+- 💼 **Commercial use requires a separate license.** If you want to use imail-mcp
+  to make money — in a product, a paid service, or inside a for-profit company —
+  contact me at **ivan@nimbus-payments.com** to arrange a commercial license.
+
+See [LICENSE.md](LICENSE.md) for the full terms.
