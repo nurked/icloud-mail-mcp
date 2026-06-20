@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "MCP server that connects Claude to email accounts (iCloud Mail first) over IMAP/SMTP",
   "type": "module",
-  "author": "Ivan Roganov <ceo@investmentfidelity.company>",
-  "copyright": "Investment Fidelity (https://investmentfidelity.company)",
+  "author": "Ivan Roganov <ivan@roganov.me>",
+  "copyright": "Investment Fidelity Company (https://investmentfidelity.company)",
   "license": "PolyForm-Noncommercial-1.0.0",
   "bin": {
     "imail-mcp": "dist/index.js",
