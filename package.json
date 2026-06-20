@@ -1,0 +1,36 @@
+{
+  "name": "imail-mcp",
+  "version": "0.1.0",
+  "description": "MCP server that connects Claude to email accounts (iCloud Mail first) over IMAP/SMTP",
+  "type": "module",
+  "bin": {
+    "imail-mcp": "dist/index.js",
+    "imail-mcp-setup": "dist/bin/setup.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "setup": "npm run build && node dist/bin/setup.js",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "imapflow": "^1.0.171",
+    "mailparser": "^3.7.1",
+    "nodemailer": "^8.0.10",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/mailparser": "^3.4.4",
+    "@types/node": "^20.14.0",
+    "@types/nodemailer": "^6.4.15",
+    "typescript": "^5.5.0"
+  }
+}
